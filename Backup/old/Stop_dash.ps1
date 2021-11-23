@@ -1,0 +1,1 @@
+﻿Get-UDDashboard | Stop-UDDashboard
